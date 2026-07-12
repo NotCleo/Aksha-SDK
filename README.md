@@ -1,5 +1,8 @@
 # C2S
 
+https://digilent.com/reference/programmable-logic/arty-a7/reference-manual?redirect=1
+
+
 Full procedure : 
 
     1) Connect jtag + ethernet and flash the bitstream 
