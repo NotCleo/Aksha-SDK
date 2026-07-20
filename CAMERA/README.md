@@ -46,3 +46,6 @@ Low-altitude / close subject:
     |   └── bluetooth                       # Bluetooth Communication Orchestrator Binary
     ├── Vivado-FPGA                     # SDK Orchestrator
     └──   └── aksha.mcs                     # Bitstream Memory Configuration (QSPI)
+
+
+--scales 0.60 --stride 80 --conf 0.67
