@@ -24,6 +24,7 @@ Low-altitude / close subject:
     │   ├── bbl.bin                         # Linux Image (RISC-V Proxy Kernel and Boot Loader)
     │   └── riscv.dts                       # Linux Device Tree 
     ├── Aksha-SDK                       # SDK Orchestrator
+    │   ├── main.c                            # Main Orchestrator 
     │   ├── main                            # Main Orchestrator Binary
     │   ├── camera.c                        # Image Capture Orchestrator          
     │   ├── camera                          # Image Capture Orchestrator Binary
