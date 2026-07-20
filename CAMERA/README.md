@@ -7,6 +7,7 @@ Low-altitude / close subject:
 
 <img width="1783" height="405" alt="image" src="https://github.com/user-attachments/assets/b813e966-b420-424e-8ee1-748759e408cf" />
 
+320×240 · 640×480 · 1024×768 · 1280×960 · 1600×1200 · 2048×1536 · 2592×1944
 
 ./camera jpeg 1024 8 (or ./camera jpeg 1280 8 at low altitude). Drop 12→8. sat doesn't matter for detection.
 
